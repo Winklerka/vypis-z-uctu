@@ -1,0 +1,3 @@
+C:/Users/simko/CLionProjects/aireseni/cmake-build-debug/CMakeFiles/aireseni.dir
+C:/Users/simko/CLionProjects/aireseni/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/simko/CLionProjects/aireseni/cmake-build-debug/CMakeFiles/rebuild_cache.dir
