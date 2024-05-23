@@ -1,0 +1,1 @@
+# vypis-z-uctu
